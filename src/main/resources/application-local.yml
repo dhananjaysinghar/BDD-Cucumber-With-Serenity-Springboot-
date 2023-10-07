@@ -1,0 +1,2 @@
+MONGO_DB_DATABASE_NAME: test_db
+MONGO_DB_URI: mongodb://admin:password@localhost:27017/?authSource=admin
